@@ -1,0 +1,5 @@
+name: ItemNBT
+version: ${project.version}
+main: net.colors_wind.itemnbt.ItemNBT
+api-version: 1.14
+depend: [ NBTAPI ]
